@@ -1,0 +1,15 @@
+{
+  "version": "1.0.80",
+  "electron": true,
+  "sha256": "9af0c5eee7508c8e00ddf33831d9e66a9a1c02cac386604859614361e7a45608",
+  "size": 84509755,
+  "app": {
+    "sha256": "a54d2f9087d51d4d7293e0421fc10ed39768dae7ad97ec7d75ac3e9f8ebed44d",
+    "size": 8146724
+  },
+  "at": "2026-10-26T12:24:05.456Z",
+  "exe": {
+    "sha256": "90ec3c02c4a63c7d4c2c49343543441b1ab73454d2f086307dfe6e8579bf8f1d",
+    "size": 29588834
+  }
+}
