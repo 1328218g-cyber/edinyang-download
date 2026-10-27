@@ -1,15 +1,15 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "electron": true,
-  "sha256": "37645efd5a4dc978a2faf6d1c9002b77dd7c23fdfd5b32f4ce072d29bf0878f1",
-  "size": 84783466,
+  "sha256": "567727c8af6066b19de33e65a3f2d4d1d618a05b096e77d157d5ed5dfa28dca7",
+  "size": 84788827,
   "app": {
-    "sha256": "888fcb882f54243d46064111ae8deb339d3ecdf451d87b8a0f08477d18d51a6e",
-    "size": 8469248
+    "sha256": "f071e09ea08c815074238211b1ff327b10ca0c16c8128d44b8d2ce94ee7f1cd2",
+    "size": 8470456
   },
-  "at": "2026-10-27T12:48:44.305Z",
+  "at": "2026-10-27T12:59:35.281Z",
   "exe": {
-    "sha256": "5377f2fa61b4bed6cf145e40ab5ba2c1d8eaae13c5e86ba02b7a82f622bfe29e",
-    "size": 29869849
+    "sha256": "721fbb98795a55bb6ba7d4f4eaad0b360cddc9f0544ec1ea8ddc4aeee4abd473",
+    "size": 29870437
   }
 }
